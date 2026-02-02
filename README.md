@@ -3,10 +3,9 @@
 while developing a custom Object Detection system to solve real-world computer vision challenges.
 <br>👯 I’m looking to collaborate on: Data-driven GenAI applications, specifically those leveraging RAG and Vector Databases to enhance enterprise search and decision-making capabilities.</br>
 🤝 I’m looking for help with: Mastering MLOps strategies for model monitoring and observability (using LangFuse and MLflow) to ensure analytical models remain accurate and scalable in production.
-<br>
-🌱 I’m currently learning: Advanced CI/CD pipelines for automated data workflows and the Model Context Protocol (MCP) to better integrate LLMs with structured data sources.</br>
-<br>💬 Ask me about: My professional tenure at CVS and Optum, my Master’s in Computer Science, or building robust, data-intensive applications using PySpark and AWS.</br>
-<br>⚡ Fun fact: I am a graduate who loves bridging the gap between high-scale Data Engineering pipelines and predictive analytics—I am also deeply interested in contributing to cutting-edge AI and ML projects.</br>
+🌱 I’m currently learning: Advanced CI/CD pipelines for automated data workflows and the Model Context Protocol (MCP) to better integrate LLMs with structured data sources.
+💬 Ask me about: My professional tenure at CVS and Optum, my Master’s in Computer Science, or building robust, data-intensive applications using PySpark and AWS.
+⚡ Fun fact: I am a graduate who loves bridging the gap between high-scale Data Engineering pipelines and predictive analytics—I am also deeply interested in contributing to cutting-edge AI and ML projects.
 
 
 # 💻 Tech Stack:
