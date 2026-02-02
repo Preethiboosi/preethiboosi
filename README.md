@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on: Developing an advanced Object <br>Detection system using custom datasets to solve real-world <br>computer vision challenges.<br>👯 I’m looking to collaborate on: Scalable GenAI applications, <br>specifically those utilizing RAG, LangChain, and Vector Databases <br>for enterprise solutions.<br>🤝 I’m looking for help with: Implementing advanced MLOps <br>strategies for model monitoring and observability using <br>LangFuse and MLflow.<br>🌱 I’m currently learning: Deepening my expertise in Model <br>Context Protocol (MCP) and optimizing CI/CD pipelines for <br>automated model deployment.<br>💬 Ask me about: My tenure at CVS  and Optum, my Master’s in<br> Computer Science, or building data-intensive applications with <br>PySpark and AWS.<br>⚡ Fun fact: I am a graduate who loves bridging the gap <br>between complex Data Engineering pipelines and predictive AI <br>models to drive data-driven decision making.
+🔭 🔭 I’m currently working on: Translating complex datasets into actionable business intelligence using SQL, Python, and Tableau, while developing a custom Object Detection system to solve real-world computer vision challenges.
+
+👯 I’m looking to collaborate on: Data-driven GenAI applications, specifically those leveraging RAG and Vector Databases to enhance enterprise search and decision-making capabilities.
+
+🤝 I’m looking for help with: Mastering MLOps strategies for model monitoring and observability (using LangFuse and MLflow) to ensure analytical models remain accurate and scalable in production.
+
+🌱 I’m currently learning: Advanced CI/CD pipelines for automated data workflows and the Model Context Protocol (MCP) to better integrate LLMs with structured data sources.
+
+💬 Ask me about: My professional tenure at CVS and Optum, my Master’s in Computer Science, or building robust, data-intensive applications using PySpark and AWS.
+
+⚡ Fun fact: I am a graduate who loves bridging the gap between high-scale Data Engineering pipelines and predictive analytics—I am also deeply interested in contributing to cutting-edge AI and ML projects.
 
 
 # 💻 Tech Stack:
