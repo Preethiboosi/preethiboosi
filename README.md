@@ -1,11 +1,10 @@
 # 💫 About Me:
-🔭 🔭 I’m currently working on: Translating complex datasets into actionable business intelligence using SQL, Python, and Tableau, 
-while developing a custom Object Detection system to solve real-world computer vision challenges.
-<br>👯 I’m looking to collaborate on: Data-driven GenAI applications, specifically those leveraging RAG and Vector Databases to enhance enterprise search and decision-making capabilities.</br>
-🤝 I’m looking for help with: Mastering MLOps strategies for model monitoring and observability (using LangFuse and MLflow) to ensure analytical models remain accurate and scalable in production.
-🌱 I’m currently learning: Advanced CI/CD pipelines for automated data workflows and the Model Context Protocol (MCP) to better integrate LLMs with structured data sources.
-💬 Ask me about: My professional tenure at CVS and Optum, my Master’s in Computer Science, or building robust, data-intensive applications using PySpark and AWS.
-⚡ Fun fact: I am a graduate who loves bridging the gap between high-scale Data Engineering pipelines and predictive analytics—I am also deeply interested in contributing to cutting-edge AI and ML projects.
+🔭 I’m currently working on: Developing streamlined data visualization dashboards and optimizing SQL queries to transform raw datasets into actionable insights for real-world business challenges.
+<br>👯 I’m looking to collaborate on: Scalable data analytics solutions, specifically those utilizing Tableau, Power BI, and advanced Excel for enterprise-level reporting.
+<br>🤝 I’m looking for help with: Implementing advanced Data Governance strategies and enhancing automated data validation scripts to ensure high data integrity and observability.
+<br>🌱 I’m currently learning: Deepening my expertise in Cloud Data Warehousing (Snowflake/BigQuery) and optimizing CI/CD pipelines for automated report deployment.
+<br>💬 Ask me about: My tenure at CVS and Optum, my Master’s in Computer Science, or building data-intensive applications with PySpark and AWS.
+<br>⚡ Fun fact: I am a graduate who loves bridging the gap between complex Data Engineering pipelines and business intelligence—I am also deeply interested in AI and ML projects.
 
 
 # 💻 Tech Stack:
