@@ -1,10 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on: Developing streamlined data visualization dashboards and optimizing SQL queries to transform raw datasets into actionable insights for real-world business challenges.
-<br>👯 I’m looking to collaborate on: Scalable data analytics solutions, specifically those utilizing Tableau, Power BI, and advanced Excel for enterprise-level reporting.
-<br>🤝 I’m looking for help with: Implementing advanced Data Governance strategies and enhancing automated data validation scripts to ensure high data integrity and observability.
-<br>🌱 I’m currently learning: Deepening my expertise in Cloud Data Warehousing (Snowflake/BigQuery) and optimizing CI/CD pipelines for automated report deployment.
-<br>💬 Ask me about: My tenure at CVS Health and Swiggy, my Master’s in Computer Science, or building data-intensive applications with PySpark and AWS.
-<br>⚡ Fun fact: I am a graduate who loves bridging the gap between complex Data Engineering pipelines and business intelligence—I am also deeply interested in AI and ML projects.
+🔭 I’m currently working on:
+Building scalable applications using Python and modern software frameworks, while integrating AI-powered tools to enhance automation and real-world problem solving.
+👯 I’m looking to collaborate on:
+Projects involving full-stack development, backend systems, and AI-integrated applications, especially those leveraging cloud and modern frameworks.
+🤝 I’m looking for help with:
+Designing efficient system architectures and improving AI integration workflows within production-level applications.
+🌱 I’m currently learning:
+Advancing my skills in AI/ML integration, cloud technologies (AWS/Azure), and scalable system design, along with best practices in modern software development.
+💬 Ask me about:
+My Master’s in Computer Science, 4.5+ years of experience, or building scalable applications using Python, Java, React, and cloud technologies.
 
 
 # 💻 Tech Stack:
