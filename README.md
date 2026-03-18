@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on:
-Building scalable applications using Python and modern software frameworks, while integrating AI-powered tools to enhance automation and real-world problem solving.
+Building scalable applications using Python and modern software frameworks, while integrating AI-powered tools to enhance automation and real-world problem solving.</br>
 👯 I’m looking to collaborate on:
 Projects involving full-stack development, backend systems, and AI-integrated applications, especially those leveraging cloud and modern frameworks.
 🤝 I’m looking for help with:
