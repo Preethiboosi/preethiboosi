@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on:
-Building scalable applications using Python and modern software frameworks, while integrating AI-powered tools to enhance automation and real-world problem solving.</br>
+Building scalable applications using Java, Python and modern software frameworks, while integrating AI-powered tools to enhance automation and real-world problem solving.</br>
 👯 I’m looking to collaborate on:
 Projects involving full-stack development, backend systems, and AI-integrated applications, especially those leveraging cloud and modern frameworks.</br>
 🤝 I’m looking for help with:
@@ -8,7 +8,7 @@ Designing efficient system architectures and improving AI integration workflows 
 🌱 I’m currently learning:
 Advancing my skills in AI/ML integration, cloud technologies (AWS/Azure), and scalable system design, along with best practices in modern software development.</br>
 💬 Ask me about:
-My Master’s in Computer Science, 4.5+ years of experience, or building scalable applications using Python, Java, React, and cloud technologies.
+My Master’s in Computer Science, 5+ years of experience, or building scalable applications using  Java, Python, React, and cloud technologies.
 
 
 # 💻 Tech Stack:
